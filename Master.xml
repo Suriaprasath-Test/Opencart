@@ -12,9 +12,15 @@
   <parameter name="browser" value="chrome"></parameter>
   
     <classes>
-     <class name="testcases.TC001_RegisterAccountTest"/>
+    <!--  <class name="testcases.TC001_RegisterAccountTest"/>
       <class name="testcases.TC002_LoginTest"/>
-      <!--  <class name="testcases.TC003_LoginTestDDT"/>-->
+       <class name="testcases.TC003_LoginTestDDT"/>
+       <class name="testcases.TC004_SearchTextTest"/>
+        <class name="testcases.TC005_SearchAfterlogin"/>
+         <class name="testcases.TC006_SearchCategory"/>
+           <class name="testcases.TC007_SearchUsingDescription"/>-->
+           <class name="testcases.TC008_SearchSubCategory"/>
     </classes>
+    
   </test> <!-- Test -->
 </suite> <!-- Suite -->

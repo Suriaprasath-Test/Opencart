@@ -1,22 +1,121 @@
-2025-08-23 10:58:17 INFO  TC001_RegisterAccountTest:14 - TC001...
-2025-08-23 10:58:17 INFO  TC001_RegisterAccountTest:16 - Test started...
-2025-08-23 10:58:17 INFO  TC001_RegisterAccountTest:18 - Clicking my account..
-2025-08-23 10:58:18 INFO  TC001_RegisterAccountTest:20 - Clicking resgister...
-2025-08-23 10:58:19 INFO  TC001_RegisterAccountTest:24 - Entering details...
-2025-08-23 10:58:21 INFO  TC001_RegisterAccountTest:40 - Test passed...
-2025-08-23 10:58:28 INFO  TC002_LoginTest:15 - ----TC_002 STARTS----
-2025-08-23 10:58:28 INFO  TC002_LoginTest:17 - ----Opens homepage----
-2025-08-23 10:58:29 INFO  TC002_LoginTest:22 - ----Opens Login page and Enter details----
-2025-08-23 10:58:29 INFO  TC002_LoginTest:28 - ----Validation takes place----
-2025-08-23 10:58:30 INFO  TC002_LoginTest:35 - ----TC_002 Finished----
-2025-08-23 11:26:27 INFO  TC001_RegisterAccountTest:14 - TC001...
-2025-08-23 11:26:27 INFO  TC001_RegisterAccountTest:16 - Test started...
-2025-08-23 11:26:27 INFO  TC001_RegisterAccountTest:18 - Clicking my account..
-2025-08-23 11:26:27 INFO  TC001_RegisterAccountTest:20 - Clicking resgister...
-2025-08-23 11:26:28 INFO  TC001_RegisterAccountTest:24 - Entering details...
-2025-08-23 11:26:31 INFO  TC001_RegisterAccountTest:40 - Test passed...
-2025-08-23 11:26:36 INFO  TC002_LoginTest:15 - ----TC_002 STARTS----
-2025-08-23 11:26:36 INFO  TC002_LoginTest:17 - ----Opens homepage----
-2025-08-23 11:26:37 INFO  TC002_LoginTest:22 - ----Opens Login page and Enter details----
-2025-08-23 11:26:38 INFO  TC002_LoginTest:28 - ----Validation takes place----
-2025-08-23 11:26:38 INFO  TC002_LoginTest:35 - ----TC_002 Finished----
+2025-08-26 09:10:28 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 09:10:42 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:43 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:43 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:43 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:43 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:43 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:44 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:10:44 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:23:48 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 09:23:58 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:23:59 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:24:00 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:24:00 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:24:00 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:24:00 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:24:00 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:24:00 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:00 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 09:42:05 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:06 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:06 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:07 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:07 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:07 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:07 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:07 ERROR POIXMLDocumentPart:656 - Skipped invalid entry /xl/sharedlinks.xml
+2025-08-26 09:42:07 INFO  TC004_SearchTextTest:15 - ----Test Started----
+2025-08-26 09:42:07 INFO  TC004_SearchTextTest:18 - ----Item Entered----
+2025-08-26 09:42:08 INFO  TC004_SearchTextTest:24 - ----Validation Started-----
+2025-08-26 09:42:08 INFO  TC004_SearchTextTest:32 - ----Validation ended-----
+2025-08-26 09:42:08 INFO  TC004_SearchTextTest:38 - ----Test completed----
+2025-08-26 09:42:08 INFO  TC004_SearchTextTest:15 - ----Test Started----
+2025-08-26 09:42:08 INFO  TC004_SearchTextTest:18 - ----Item Entered----
+2025-08-26 09:42:09 INFO  TC004_SearchTextTest:24 - ----Validation Started-----
+2025-08-26 09:42:09 INFO  TC004_SearchTextTest:32 - ----Validation ended-----
+2025-08-26 09:42:09 INFO  TC004_SearchTextTest:38 - ----Test completed----
+2025-08-26 09:42:09 INFO  TC004_SearchTextTest:15 - ----Test Started----
+2025-08-26 09:42:09 INFO  TC004_SearchTextTest:18 - ----Item Entered----
+2025-08-26 09:42:10 INFO  TC004_SearchTextTest:24 - ----Validation Started-----
+2025-08-26 09:42:10 INFO  TC004_SearchTextTest:32 - ----Validation ended-----
+2025-08-26 09:42:10 INFO  TC004_SearchTextTest:38 - ----Test completed----
+2025-08-26 10:50:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\Suria\AppData\Local\Temp\testng-eclipse--106867759\testng-customsuite.xml
+
+2025-08-26 11:27:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 9 ms.
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@1d0d6318: 302 ms
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4212a0c8: 42 ms
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3f0846c6: 17 ms
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@320de594: 21 ms
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@665df3c6: 11 ms
+2025-08-26 11:27:35 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@68b6f0d6: 1 ms
+2025-08-26 11:27:39 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 11:28:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 20:10:42 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 20:18:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 20:42:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 20:43:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 20:44:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 21:07:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 21:11:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+
+2025-08-26 21:12:08 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\Opencart\Master.xml
+

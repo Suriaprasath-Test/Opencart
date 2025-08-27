@@ -23,4 +23,21 @@ public class DataProviders {
 		}
 		return finaldata;
 	}
+	@DataProvider(name="dp1")
+	public String[][] getsearchdata() throws IOException{
+		String path= "./testdata//Search_data.xlsx";
+		ExcelUtility xlfile=new ExcelUtility(path);
+		int rowcount=xlfile.getRowCount("Sheet1");
+		int cellcount=xlfile.getCellCount("Sheet1", 1);
+		
+		String[][] finaldata= new String[rowcount][cellcount];
+		
+		for(int r=1;r<=rowcount;r++) {
+			for(int c=0;c<cellcount;c++) {
+				finaldata[r-1][c] =xlfile.getCellData("Sheet1", r, c);
+			}
+		}
+		return finaldata;
+	}
+	
 }
