@@ -23,6 +23,9 @@ public class HomePage extends BasePage{
 	@FindBy(xpath="//input[@placeholder='Search']")
 	WebElement txtsearch;
 	
+	@FindBy(xpath="//a[normalize-space()='Site Map']")
+	WebElement lnksitemap;
+	
 	//Actions
 	public void clickmyaccount() {
 		lnkMyAccount.click();
@@ -36,6 +39,10 @@ public class HomePage extends BasePage{
 		lnklogin.click();
 	}
 	
+	public void clicksitemap() {
+		lnksitemap.click();
+	}
+	
 	public void txtsearch(String item) {
 		txtsearch.sendKeys(item);
 	}
@@ -43,4 +50,9 @@ public class HomePage extends BasePage{
 	public void clearsearch() {
 		txtsearch.clear();
 	}
+	
+	public boolean issearchboxdisplayed() {
+		return txtsearch.isDisplayed();
+	}
+	
 }

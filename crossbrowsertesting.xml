@@ -11,7 +11,7 @@
    <parameter name="os" value="Windows"></parameter>
    <parameter name="browser" value="chrome"></parameter>
     <classes>
-      <class name="testcases.TC001_RegisterAccountTest"/>
+      <class name="testcases.TC014_SearchPageBreadCrumbTest"/>
     </classes>
   </test> <!-- Test -->
   
@@ -19,7 +19,7 @@
    <parameter name="os" value="Windows"></parameter>
    <parameter name="browser" value="firefox"></parameter>
     <classes>
-      <class name="testcases.TC001_RegisterAccountTest"/>
+      <class name="testcases.TC014_SearchPageBreadCrumbTest"/>
     </classes>
   </test> <!-- Test -->
   

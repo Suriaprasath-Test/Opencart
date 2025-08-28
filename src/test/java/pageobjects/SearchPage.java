@@ -1,5 +1,6 @@
 package pageobjects;
 
+import java.util.List;
 import java.util.NoSuchElementException;
 
 import org.openqa.selenium.By;
@@ -43,6 +44,23 @@ public class SearchPage extends BasePage{
 	@FindBy(xpath="//input[@name='sub_category']")
 	WebElement chksubcategory;
 	
+	@FindBy(xpath="//img[@title='iMac']")
+	WebElement productimg;
+	
+	@FindBy(xpath="//i[@class='fa fa-home']")
+	WebElement homeicon;
+	
+	@FindBy(xpath="//i[@class='fa fa-th']")
+	WebElement gridicon;
+	
+	@FindBy(xpath="//a[@id='compare-total']")
+	WebElement lnkproduct;
+	
+	@FindBy(xpath="//ul[@class='breadcrumb']")
+	WebElement breadcrumb;
+	
+	public List<WebElement> sort=driver.findElements(By.xpath("//select[@id='input-sort']"));
+	
 	public boolean disimage() {
 		return image.isDisplayed();
 	}
@@ -60,7 +78,7 @@ public class SearchPage extends BasePage{
 		icnsearch.click();
 	}
 	
-	public void clearsearch() {
+	public void clsearch() {
 		icnsearch.clear();
 	}
 	
@@ -90,5 +108,38 @@ public class SearchPage extends BasePage{
 	
 	public void checkbox() {
 		chksubcategory.click();
+	}
+	
+	public void clickproduct() {
+		productimg.click();
+	}
+	
+	public void clickhome() {
+		homeicon.click();
+	}
+	
+	public void clickgrid() {
+		gridicon.click();
+	}
+	
+	public void clickproductlink() {
+		lnkproduct.click();
+	}
+	
+	public List <WebElement> clicksort() {
+		return sort;
+	}
+	
+
+	public boolean issearchbuttondisplayed() {
+		return icnsearch.isDisplayed();
+	}
+	
+	public boolean isgridicondisplayed() {
+		return gridicon.isDisplayed();
+	}
+	
+	public boolean isbreaddisplayed() {
+		return breadcrumb.isDisplayed();
 	}
 }

@@ -18,8 +18,15 @@
        <class name="testcases.TC004_SearchTextTest"/>
         <class name="testcases.TC005_SearchAfterlogin"/>
          <class name="testcases.TC006_SearchCategory"/>
-           <class name="testcases.TC007_SearchUsingDescription"/>-->
+           <class name="testcases.TC007_SearchUsingDescription"/>
            <class name="testcases.TC008_SearchSubCategory"/>
+           <class name="testcases.TC009_SearchViewTest"/>
+           <class name="testcases.TC010_SearchToProductCompareLinkTest"/>
+           <class name="testcases.TC011_SearchBySort"/>
+           <class name="testcases.TC012_SearchBoxVisbilityInAllPages"/>
+           <class name="testcases.TC013_SearchPageFromSiteMap"/>
+           <class name="testcases.TC014_SearchPageBreadCrumbTest"/>-->
+           <class name="testcases.TC015_ProductComparisonAddingTest"/>
     </classes>
     
   </test> <!-- Test -->
